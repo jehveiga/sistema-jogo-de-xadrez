@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = jogo_xadrez_console
+build_property.ProjectDir = C:\Users\Jeh\source\repos\Curso_ProgramacaoC#_Completo\Projeto_Jogo_de_Xadrez\jogo_xadrez-console\jogo_xadrez-console\
