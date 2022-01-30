@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "jogo_xadrez-console/1.0.0": {
+        "runtime": {
+          "jogo_xadrez-console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jogo_xadrez-console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
