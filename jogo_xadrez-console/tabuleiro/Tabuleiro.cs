@@ -29,7 +29,7 @@
             return Peca(pos) != null;
         }
 
-        public void colocarPeca(Peca p, Posicao pos)
+        public void ColocarPeca(Peca p, Posicao pos)
         {
             if (ExistePeca(pos))
             {
